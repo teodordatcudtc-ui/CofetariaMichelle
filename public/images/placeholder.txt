@@ -1,0 +1,75 @@
+# Placeholder Images Directory
+
+This directory should contain the following images for the Cofetaria Michelle website:
+
+## Hero Images
+- hero-cake.jpg (1200x800px) - Main hero image for homepage
+- about-hero.jpg (1200x800px) - Team photo for about page
+
+## Product Images
+- products/tort-ciocolata.jpg (400x400px)
+- products/tort-carrot.jpg (400x400px)
+- products/tort-red-velvet.jpg (400x400px)
+- products/tort-4.jpg (400x400px)
+- products/ecler-vanilie.jpg (400x400px)
+- products/profiterol.jpg (400x400px)
+- products/tiramisu.jpg (400x400px)
+- products/cheesecake-fructe.jpg (400x400px)
+- products/briosa-nutella.jpg (400x400px)
+- products/croissant-ciocolata.jpg (400x400px)
+- products/briosa-capsuni.jpg (400x400px)
+- products/briosa-migdale.jpg (400x400px)
+
+## Gallery Images
+- gallery/tort-1.jpg (600x600px)
+- gallery/tort-2.jpg (600x600px)
+- gallery/tort-3.jpg (600x600px)
+- gallery/tort-4.jpg (600x600px)
+- gallery/prajitura-1.jpg (600x600px)
+- gallery/prajitura-2.jpg (600x600px)
+- gallery/prajitura-3.jpg (600x600px)
+- gallery/prajitura-4.jpg (600x600px)
+- gallery/briosa-1.jpg (600x600px)
+- gallery/briosa-2.jpg (600x600px)
+- gallery/briosa-3.jpg (600x600px)
+- gallery/briosa-4.jpg (600x600px)
+
+## Team Images
+- team/michelle.jpg (300x300px)
+- team/ana.jpg (300x300px)
+- team/maria.jpg (300x300px)
+
+## Blog Images
+- blog/istoria-cofetariei.jpg (800x400px)
+- blog/ingrediente-calitate.jpg (800x400px)
+- blog/retete-traditionale.jpg (800x400px)
+
+## Social Media Images
+- og-home.jpg (1200x630px) - Open Graph image for homepage
+- og-menu.jpg (1200x630px) - Open Graph image for menu page
+- og-gallery.jpg (1200x630px) - Open Graph image for gallery page
+- og-about.jpg (1200x630px) - Open Graph image for about page
+- og-order.jpg (1200x630px) - Open Graph image for order page
+- og-blog.jpg (1200x630px) - Open Graph image for blog page
+- og-contact.jpg (1200x630px) - Open Graph image for contact page
+
+## Favicon Files
+- favicon.ico (32x32px)
+- favicon-16x16.png (16x16px)
+- favicon-32x32.png (32x32px)
+- apple-touch-icon.png (180x180px)
+- android-chrome-192x192.png (192x192px)
+- android-chrome-512x512.png (512x512px)
+
+## Image Sources
+You can find high-quality food images from:
+- Unsplash (https://unsplash.com) - Free stock photos
+- Pexels (https://pexels.com) - Free stock photos
+- Foodiesfeed (https://foodiesfeed.com) - Free food photos
+
+## Image Optimization
+All images should be optimized for web:
+- Use WebP format when possible
+- Compress images to reduce file size
+- Use appropriate dimensions for each use case
+- Add proper alt text for accessibility

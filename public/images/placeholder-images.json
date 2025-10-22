@@ -1,0 +1,164 @@
+{
+  "hero": {
+    "hero-cake.jpg": {
+      "description": "Tort artizanal elegant pentru hero section",
+      "alt": "Tort artizanal Cofetaria Michelle",
+      "dimensions": "1200x800"
+    },
+    "about-hero.jpg": {
+      "description": "Echipa Cofetăriei Michelle",
+      "alt": "Echipa Cofetăriei Michelle",
+      "dimensions": "1200x800"
+    }
+  },
+  "products": {
+    "tort-ciocolata.jpg": {
+      "description": "Tort cu ciocolată belgiană premium",
+      "alt": "Tort Ciocolată Belga",
+      "dimensions": "400x400"
+    },
+    "tort-carrot.jpg": {
+      "description": "Tort Carrot Cake cu nucă",
+      "alt": "Tort Carrot Cake",
+      "dimensions": "400x400"
+    },
+    "tort-red-velvet.jpg": {
+      "description": "Tort Red Velvet clasic",
+      "alt": "Tort Red Velvet",
+      "dimensions": "400x400"
+    },
+    "ecler-vanilie.jpg": {
+      "description": "Ecler cu cremă de vanilie",
+      "alt": "Ecler cu Vanilie",
+      "dimensions": "400x400"
+    },
+    "profiterol.jpg": {
+      "description": "Profiterol cu ciocolată",
+      "alt": "Profiterol cu Ciocolată",
+      "dimensions": "400x400"
+    },
+    "tiramisu.jpg": {
+      "description": "Tiramisu clasic italian",
+      "alt": "Tiramisu",
+      "dimensions": "400x400"
+    },
+    "briosa-nutella.jpg": {
+      "description": "Brioșă cu Nutella și alune",
+      "alt": "Brioșă cu Nutella",
+      "dimensions": "400x400"
+    },
+    "croissant-ciocolata.jpg": {
+      "description": "Croissant cu ciocolată și migdale",
+      "alt": "Croissant cu Ciocolată",
+      "dimensions": "400x400"
+    },
+    "briosa-capsuni.jpg": {
+      "description": "Brioșă cu căpșuni proaspete",
+      "alt": "Brioșă cu Căpșuni",
+      "dimensions": "400x400"
+    }
+  },
+  "gallery": {
+    "tort-1.jpg": {
+      "description": "Tort de nuntă elegant",
+      "alt": "Tort de nuntă elegant",
+      "dimensions": "600x600"
+    },
+    "tort-2.jpg": {
+      "description": "Tort cu fructe proaspete",
+      "alt": "Tort cu fructe proaspete",
+      "dimensions": "600x600"
+    },
+    "prajitura-1.jpg": {
+      "description": "Ecler cu vanilie în galerie",
+      "alt": "Ecler cu vanilie",
+      "dimensions": "600x600"
+    },
+    "prajitura-2.jpg": {
+      "description": "Profiterol cu ciocolată în galerie",
+      "alt": "Profiterol cu ciocolată",
+      "dimensions": "600x600"
+    },
+    "briosa-1.jpg": {
+      "description": "Brioșă cu Nutella în galerie",
+      "alt": "Brioșă cu Nutella",
+      "dimensions": "600x600"
+    },
+    "briosa-2.jpg": {
+      "description": "Croissant cu ciocolată în galerie",
+      "alt": "Croissant cu ciocolată",
+      "dimensions": "600x600"
+    }
+  },
+  "team": {
+    "michelle.jpg": {
+      "description": "Michelle Popescu - Fondator & Șef Cofetar",
+      "alt": "Michelle Popescu",
+      "dimensions": "300x300"
+    },
+    "ana.jpg": {
+      "description": "Ana Ionescu - Cofetar Senior",
+      "alt": "Ana Ionescu",
+      "dimensions": "300x300"
+    },
+    "maria.jpg": {
+      "description": "Maria Dumitrescu - Specialist Prăjituri",
+      "alt": "Maria Dumitrescu",
+      "dimensions": "300x300"
+    }
+  },
+  "blog": {
+    "istoria-cofetariei.jpg": {
+      "description": "Istoria Cofetăriei Artizanale",
+      "alt": "Istoria Cofetăriei Artizanale",
+      "dimensions": "800x400"
+    },
+    "ingrediente-calitate.jpg": {
+      "description": "Ingredientele de Calitate Superioară",
+      "alt": "Ingredientele de Calitate Superioară",
+      "dimensions": "800x400"
+    },
+    "retete-traditionale.jpg": {
+      "description": "Rețete Tradiționale vs. Moderne",
+      "alt": "Rețete Tradiționale vs. Moderne",
+      "dimensions": "800x400"
+    }
+  },
+  "og": {
+    "og-home.jpg": {
+      "description": "Open Graph image pentru homepage",
+      "alt": "Cofetaria Michelle - Prăjituri Artizanale",
+      "dimensions": "1200x630"
+    },
+    "og-menu.jpg": {
+      "description": "Open Graph image pentru meniu",
+      "alt": "Meniu Cofetaria Michelle",
+      "dimensions": "1200x630"
+    },
+    "og-gallery.jpg": {
+      "description": "Open Graph image pentru galerie",
+      "alt": "Galerie Cofetaria Michelle",
+      "dimensions": "1200x630"
+    },
+    "og-about.jpg": {
+      "description": "Open Graph image pentru despre",
+      "alt": "Despre Cofetaria Michelle",
+      "dimensions": "1200x630"
+    },
+    "og-order.jpg": {
+      "description": "Open Graph image pentru comandă",
+      "alt": "Comandă Cofetaria Michelle",
+      "dimensions": "1200x630"
+    },
+    "og-blog.jpg": {
+      "description": "Open Graph image pentru blog",
+      "alt": "Blog Cofetaria Michelle",
+      "dimensions": "1200x630"
+    },
+    "og-contact.jpg": {
+      "description": "Open Graph image pentru contact",
+      "alt": "Contact Cofetaria Michelle",
+      "dimensions": "1200x630"
+    }
+  }
+}
