@@ -56,7 +56,7 @@ export default function HomePage() {
           }}></div>
         </div>
         
-        <div className="container-custom relative z-10">
+        <div className="container-custom relative z-10 px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <MotionWrapper
               initial={{ opacity: 0, x: -50 }}
@@ -178,7 +178,7 @@ export default function HomePage() {
 
       {/* Our Process Section */}
       <section className="section-padding bg-white">
-        <div className="container-custom">
+        <div className="container-custom px-4 sm:px-6 lg:px-8">
           <MotionWrapper
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}
@@ -252,7 +252,7 @@ export default function HomePage() {
 
       {/* Featured Products Section */}
       <section className="section-padding bg-gray-50">
-        <div className="container-custom">
+        <div className="container-custom px-4 sm:px-6 lg:px-8">
           <MotionWrapper
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}
@@ -289,7 +289,7 @@ export default function HomePage() {
 
       {/* Why Choose Us Section */}
       <section className="section-padding bg-gradient-to-br from-gray-50 to-primary-50">
-        <div className="container-custom">
+        <div className="container-custom px-4 sm:px-6 lg:px-8">
           <MotionWrapper
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}
@@ -369,7 +369,7 @@ export default function HomePage() {
 
       {/* CTA Section */}
       <section className="section-padding bg-gradient-to-r from-primary-500 to-secondary-500">
-        <div className="container-custom text-center">
+        <div className="container-custom text-center px-4 sm:px-6 lg:px-8">
           <MotionWrapper
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}
