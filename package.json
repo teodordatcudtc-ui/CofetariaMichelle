@@ -9,6 +9,9 @@
     "lint": "next lint",
     "generate-sitemap": "node scripts/generate-sitemap.js"
   },
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "dependencies": {
     "next": "14.0.4",
     "react": "^18",

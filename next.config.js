@@ -1,6 +1,5 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'standalone',
   images: {
     domains: ['images.unsplash.com', 'via.placeholder.com'],
     formats: ['image/webp', 'image/avif'],
@@ -12,9 +11,6 @@ const nextConfig = {
         destination: '/api/sitemap',
       },
     ]
-  },
-  experimental: {
-    serverComponentsExternalPackages: [],
   },
 }
 
