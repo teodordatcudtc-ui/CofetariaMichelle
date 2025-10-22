@@ -82,14 +82,14 @@ export default function HomePage() {
               </p>
               
               <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start mb-8">
-                <Link href="/comanda" className="group relative overflow-hidden bg-gradient-to-r from-primary-500 to-secondary-500 text-white font-semibold py-4 px-8 rounded-full transition-all duration-300 transform hover:scale-105 hover:shadow-2xl">
-                  <span className="relative z-10 flex items-center">
+                <Link href="/comanda" className="group relative overflow-hidden bg-gradient-to-r from-primary-500 to-secondary-500 text-white font-semibold py-4 px-8 rounded-full transition-all duration-300 transform hover:scale-105 hover:shadow-2xl flex items-center justify-center">
+                  <span className="relative z-10 flex items-center justify-center">
                     Comandă acum
                     <ArrowRight className="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" />
                   </span>
                   <div className="absolute inset-0 bg-gradient-to-r from-primary-600 to-secondary-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 </Link>
-                <Link href="/produse" className="group border-2 border-primary-500 text-primary-600 hover:bg-primary-500 hover:text-white font-semibold py-4 px-8 rounded-full transition-all duration-300 transform hover:scale-105">
+                <Link href="/produse" className="group border-2 border-primary-500 text-primary-600 hover:bg-primary-500 hover:text-white font-semibold py-4 px-8 rounded-full transition-all duration-300 transform hover:scale-105 flex items-center justify-center">
                   Vezi produsele
                 </Link>
               </div>
